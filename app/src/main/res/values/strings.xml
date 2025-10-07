@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidBT5_KieuNhi</string>
+    <string name="app_logo">App Logo</string>
+    <string name="back_button">Back</string>
+    <string name="settings_button">Settings</string>
+    <string name="profile_image">Profile Image</string>
 </resources>
